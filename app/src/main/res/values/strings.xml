@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InstantChat</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="crear_nueva_cuenta">Crear nueva cuenta</string>
+</resources>
